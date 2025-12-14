@@ -57,8 +57,8 @@ A powerful web application that generates stunning AI images from text descripti
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/CodeCubCA/ai-image-generator-Molly.git
-cd ai-image-generator-Molly
+git clone https://github.com/CodeCubCA/ai-image-generator-Molly-codecub.git
+cd ai-image-generator-Molly-codecub
 ```
 
 ### 2. Install Dependencies
@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Project Link: [https://github.com/CodeCubCA/ai-image-generator-Molly](https://github.com/CodeCubCA/ai-image-generator-Molly)
+Project Link: [https://github.com/CodeCubCA/ai-image-generator-Molly-codecub](https://github.com/CodeCubCA/ai-image-generator-Molly-codecub)
 
 ---
 
