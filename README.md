@@ -1,3 +1,15 @@
+---
+title: AI Image Generator
+emoji: 🎨
+colorFrom: purple
+colorTo: pink
+sdk: streamlit
+sdk_version: "1.31.0"
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # AI Image Generator 🎨
 
 A powerful web application that generates stunning AI images from text descriptions using the FLUX.1-schnell model via HuggingFace Inference API. Create beautiful artwork with just a few words!
